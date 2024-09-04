@@ -10,5 +10,5 @@ To run the application:
    - Run `make dc_up` to run the database
    - Run the script to insert the records into the database: `./scripts/csv_to_postgres.sh`
 
-### Data Model
-![Data Model](./architecture.png)
+### ETL Architecture
+![ETL Architecture](./architecture.png)
